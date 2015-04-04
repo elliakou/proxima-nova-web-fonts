@@ -8,7 +8,8 @@
  - Proxima Nova Regular [`'Proxima Nova'`]
  - Proxima Nova Semi-Bold [`'proxima_nova_ltsemibold'`]
  - Proxima Nova Bold [`'proxima_nova_altbold'`]
- - Proxima Nova Black [`'proxima_nova_altblack'`]
+ - Proxima Nova Black  [`'proxima_nova_altblack'`]
+
 -----------
 
 ###USAGE
