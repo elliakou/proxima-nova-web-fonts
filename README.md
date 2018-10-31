@@ -13,9 +13,8 @@
 -----------
 
 ###USAGE
-
 To use the "Proxima Nova Web Fonts" Download the package as a zip file and extract the `fonts` folder.
-
+Also make sure that th folder has necessary rights so that it is accessible.
  - Put the fonts folder anywhere on your server
  - In your html file include the `fonts.css` or `fonts.min.css` as follows:
 ```
